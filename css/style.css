@@ -473,8 +473,8 @@
   }
 
   @media (max-width: 767px) {
-    .contact .info .label,
-    .contact .info .link {
+    .contact .contact-text .lable,
+    .contact .contact-text .link {
       font-size: 25px;
     }
   }
